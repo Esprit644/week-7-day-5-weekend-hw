@@ -1,0 +1,26 @@
+img {
+
+  width: 15%;
+  height: 75%;
+
+}
+
+div{
+
+  flex: auto;
+  border: 1px solid black;
+  padding: 3px;
+  margin: 3px;
+}
+
+div.beer-detail{
+  text-align: center;
+}
+
+h1{
+  text-align: center;
+  color: blue;
+  text-shadow: 2px 2px 4px black;
+  font-size: 50px;
+
+}
